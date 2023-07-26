@@ -1,0 +1,1 @@
+This Folder Contains jupyter notebook with the project implementation. The trained model is exported into a pickle file. 
